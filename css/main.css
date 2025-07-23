@@ -8,5 +8,13 @@ ul, li{
 list-style: none;
 }
 a{
-    color: bisque;
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+}
+/* 전체영역 */
+.musical-wrap{
+    width: 1200px;
+    margin: auto;
+    background-color: aqua;
+
 }
